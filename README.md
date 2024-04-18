@@ -28,5 +28,4 @@ Bachelor of Science in Software Engineering, Kirinyaga University, Graduated 202
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Doris-Mwito5&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-📚 Education:
-Bachelor of Science in Software Engineering, Kirinyaga University, Graduated 2023.
+
